@@ -1,5 +1,7 @@
 # 📖 AskRAG - Chatbot
 
+** This Project is in development phase**
+
 **AskRAG** is a simple Retrieval-Augmented Generation (RAG) chatbot built with **LangChain**, **Streamlit**, **Pinecone**, and **OpenAI**.
 It demonstrates how to combine a vector database with a Large Language Model (LLM) to create a chatbot that can answer domain-specific questions with higher accuracy and reduced hallucination.
 

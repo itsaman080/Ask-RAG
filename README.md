@@ -155,14 +155,6 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📖 References
-
-* [LangChain](https://www.langchain.com/)
-* [Pinecone Vector DB](https://www.pinecone.io/)
-* [Groq LLaMA API](https://www.groq.com/)
-
----
-
 ## 🔮 Future Enhancements
 
 * Add support for **multi-document uploads**.
@@ -176,6 +168,14 @@ streamlit run streamlit_app.py
 This project is licensed under the [MIT License](LICENSE).
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
+
+## 📖 References
+
+* [LangChain](https://www.langchain.com/)
+* [Pinecone Vector DB](https://www.pinecone.io/)
+* [Groq LLaMA API](https://www.groq.com/)
 
 ---
 

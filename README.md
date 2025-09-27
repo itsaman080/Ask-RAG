@@ -155,3 +155,12 @@ streamlit run streamlit_app.py
 * Support **multi-turn conversation memory**.
 * Add **web-based admin panel** for dynamic knowledge base updates.
 
+---
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
+

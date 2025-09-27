@@ -48,6 +48,21 @@ AskRAG/
 └─ README.md                             # Project documentation
 
 ````
+---
+
+## 📸 Screenshots
+
+| Idea Input                      | Competitor Results                  | Market Report                     |
+| ------------------------------- | ----------------------------------- | --------------------------------- |
+| ![Input](Screenshots/test1-1.png) | ![Results](Screenshots/test1-2.png) | ![Report](Screenshots/test1-3.png) |
+
+> 
+---
+
+## 🎬 Video Demo
+
+Watch a quick demo of the AI Market Validator Tool in action:  
+[Demo Video](Screenshots/Demo.mp4)
 
 ---
 
